@@ -1,0 +1,35 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Socket",
+            "request": "launch",
+            "mainClass": "Network.src.Socket",
+            "projectName": "Java_5e6d851e"
+        },
+        {
+            "type": "java",
+            "request": "launch",
+            "name": "Launch JavaFX Server",
+            "mainClass": "Network.src.ServerGUI",
+            "vmArgs": "--module-path \"C:/Program Files (x86)/javafx-sdk-21.0.5/lib\" --add-modules javafx.controls,javafx.fxml,javafx.graphics"
+        },
+        {
+            "type": "java",
+            "name": "Launch ClientGUI with JavaFX",
+            "request": "launch",
+            "mainClass": "Network.src.ClientGUI",
+            "vmArgs": "--module-path \"C:/Program Files (x86)/javafx-sdk-21.0.5/lib\" --add-modules javafx.controls,javafx.fxml,javafx.graphics"
+        }
+    ]
+}
