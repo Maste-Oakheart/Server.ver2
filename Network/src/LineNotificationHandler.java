@@ -6,6 +6,8 @@ import java.net.HttpURLConnection;
 import java.net.URI;
 import java.net.URL;
 import java.nio.charset.StandardCharsets;
+import java.time.LocalDateTime;
+import java.time.format.DateTimeFormatter;
 import java.util.HashSet;
 import java.util.Set;
 import java.util.concurrent.atomic.AtomicInteger;
@@ -80,4 +82,11 @@ public class LineNotificationHandler {
             System.err.println("Error sending Line notification: " + e.getMessage());
         }
     }
+
+    public void notifyServerDown(String reason) {
+        sendLineNotification("🔴 แจ้งเตือน: Server หยุดทำงาน\n" +
+                           "สาเหตุ: " + reason + "\n" +
+                           "เวลา: " + LocalDateTime.now().format(DateTimeFormatter.ofPattern("HH:mm:ss")));
+    }
+
 }

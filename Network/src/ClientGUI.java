@@ -29,15 +29,19 @@ public class ClientGUI extends Application {
     public void start(Stage primaryStage) {
         primaryStage.setTitle("Chat Client");
 
+        // สร้าง Label สำหรับแสดงคำสั่ง
+        Label commandsLabel = new Label(
+            "Commands:\n" +
+            "- Send to everyone: Just type your message\n" +
+            "- Send to specific IP: @IP message"
+        );
+        commandsLabel.setStyle("-fx-font-family: monospace; -fx-padding: 5;");
+
         // Create GUI components
         GridPane grid = new GridPane();
         grid.setPadding(new Insets(10));
         grid.setHgap(10);
         grid.setVgap(10);
-
-        // กำหนดขนาดขั้นต่ำของหน้าต่าง
-        primaryStage.setMinWidth(600);  // เพิ่มบรรทัดนี้
-        primaryStage.setMinHeight(400); // เพิ่มบรรทัดนี้
 
         // Connection controls
         Label ipLabel = new Label("Server IP:");
@@ -51,19 +55,15 @@ public class ClientGUI extends Application {
         chatArea.setPrefRowCount(20);
         chatArea.setEditable(false);
         chatArea.setWrapText(true);
-        
-        // กำหนดขนาดขั้นต่ำของ chat area
-        chatArea.setPrefWidth(500);     // เพิ่มบรรทัดนี้
-        chatArea.setPrefHeight(300);    // เพิ่มบรรทัดนี้
+        chatArea.setPrefWidth(500);
+        chatArea.setPrefHeight(300);
 
         // Message input
         messageField = new TextField();
         messageField.setPromptText("Type your message here");
         sendButton = new Button("Send");
         sendButton.setDisable(true);
-
-        // กำหนดให้ message field ขยายตามขนาดหน้าต่าง
-        messageField.setPrefWidth(400); // เพิ่มบรรทัดนี้
+        messageField.setPrefWidth(400);
         
         // Add components to grid
         grid.add(ipLabel, 0, 0);
@@ -71,10 +71,13 @@ public class ClientGUI extends Application {
         grid.add(portLabel, 2, 0);
         grid.add(portField, 3, 0);
         grid.add(connectButton, 4, 0);
+
+        // เพิ่ม commandsLabel ไว้เหนือ chat area
+        grid.add(commandsLabel, 0, 1, 5, 1);
         
         VBox chatBox = new VBox(10);
         chatBox.getChildren().addAll(chatArea, messageField, sendButton);
-        grid.add(chatBox, 0, 1, 5, 1);
+        grid.add(chatBox, 0, 2, 5, 1);
 
         // กำหนด column constraints เพื่อให้ขยายตามขนาดหน้าต่าง
         ColumnConstraints col1 = new ColumnConstraints();

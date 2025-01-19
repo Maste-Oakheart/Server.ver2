@@ -110,31 +110,39 @@ public class ServerVirtualThread {
     public void shutdown() {
         running.set(false);
         
-        // Notify all clients
-        broadcastMessage("SERVER", "Server is shutting down...", true);
-        
-        // Close all client connections
-        clients.forEach((clientId, handler) -> {
-            handler.writer.close();
-        });
-        clients.clear();
-
-        // Shutdown executor service
-        if (executorService != null) {
-            executorService.shutdownNow();
-        }
-
-        // Close server socket
         try {
-            if (serverSocket != null && !serverSocket.isClosed()) {
-                serverSocket.close();
+            // แจ้งเตือนผ่าน Line ก่อนที่ server จะหยุดทำงาน
+            lineNotifier.notifyServerDown("Server shutdown initiated");
+            
+            // Notify all clients
+            broadcastMessage("SERVER", "Server is shutting down...", true);
+            
+            // Close all client connections
+            clients.forEach((clientId, handler) -> {
+                handler.writer.close();
+            });
+            clients.clear();
+    
+            // Shutdown executor service
+            if (executorService != null) {
+                executorService.shutdownNow();
             }
-        } catch (IOException e) {
-            System.out.println("Error closing server socket: " + e.getMessage());
+    
+            // Close server socket
+            try {
+                if (serverSocket != null && !serverSocket.isClosed()) {
+                    serverSocket.close();
+                }
+            } catch (IOException e) {
+                System.out.println("Error closing server socket: " + e.getMessage());
+            }
+    
+            System.out.println("Server has been shut down.");
+            System.exit(0);
+        } catch (Exception e) {
+            lineNotifier.notifyServerDown("Unexpected error: " + e.getMessage());
+            System.out.println("Error during shutdown: " + e.getMessage());
         }
-
-        System.out.println("Server has been shut down.");
-        System.exit(0);
     }
 
     private void handleClient(Socket client) {
