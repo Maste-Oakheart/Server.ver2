@@ -2,7 +2,7 @@
 <launch4jConfig>
   <dontWrapJar>false</dontWrapJar>
   <headerType>gui</headerType>
-  <jar>C:\Users\oak pumirut\Documents\Java\Server.jar</jar>
+  <jar>C:\Users\oak pumirut\Documents\Server.jar</jar>
   <outfile>C:\Users\oak pumirut\Documents\Java\Application\Server.exe</outfile>
   <errTitle></errTitle>
   <cmdLine></cmdLine>
@@ -20,6 +20,6 @@
     <requires64Bit>false</requires64Bit>
     <minVersion></minVersion>
     <maxVersion></maxVersion>
-    <opt>--module-path &quot;../javafx-sdk-21.0.5/lib&quot; --add-modules javafx.controls,javafx.fxml </opt>
+    <opt>--module-path &quot;../javafx-sdk-21.0.5/lib&quot; --add-modules javafx.controls,javafx.fxml</opt>
   </jre>
 </launch4jConfig>
