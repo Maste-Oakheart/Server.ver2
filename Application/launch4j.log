@@ -198,3 +198,183 @@ Launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe
 Launcher args:	--module-path "../javafx-sdk-21.0.5/lib" --add-modules javafx.controls,javafx.fxml -jar "C:\Users\oak pumirut\Documents\Java\Application\Client.exe"
 Args length:	148/32768 chars
 Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\oak pumirut\Documents\Java\Application\Server.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\oak pumirut\Documents\Java\Application\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Program Files\Java\jdk-21\bin
+Substitute:	PATH = C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Python313\Scripts\;C:\Python313\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\DevSuiteHome_2\jdk\jre\bin\classic;C:\DevSuiteHome_2\jdk\jre\bin;C:\DevSuiteHome_2\jdk\jre\bin\client;C:\DevSuiteHome_2\jlib;C:\DevSuiteHome_2\bin;C:\DevSuiteHome_2\jre\1.4.2\bin\client;C:\DevSuiteHome_2\jre\1.4.2\bin;C:\DevSuiteHome_1\jdk\jre\bin\client;C:\DevSuiteHome_1\bin;C:\DevSuiteHome_1\jlib;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\Pumirut\bin;C:\Program Files\dotnet\;C:\Program Files\PuTTY\;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Users\oak pumirut\AppData\Local\Microsoft\WindowsApps;C:\Users\oak pumirut\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\oak pumirut\AppData\Roaming\npm;C:\Users\oak pumirut\AppData\Local\GitHubDesktop\bin;C:\Program Files\Java\jdk-21\bin
+JRE paths:	C:\Program Files\Java\jdk-21\bin;C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Python313\Scripts\;C:\Python313\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\DevSuiteHome_2\jdk\jre\bin\classic;C:\DevSuiteHome_2\jdk\jre\bin;C:\DevSuiteHome_2\jdk\jre\bin\client;C:\DevSuiteHome_2\jlib;C:\DevSuiteHome_2\bin;C:\DevSuiteHome_2\jre\1.4.2\bin\client;C:\DevSuiteHome_2\jre\1.4.2\bin;C:\DevSuiteHome_1\jdk\jre\bin\client;C:\DevSuiteHome_1\bin;C:\DevSuiteHome_1\jlib;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\Pumirut\bin;C:\Program Files\dotnet\;C:\Program Files\PuTTY\;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Users\oak pumirut\AppData\Local\Microsoft\WindowsApps;C:\Users\oak pumirut\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\oak pumirut\AppData\Roaming\npm;C:\Users\oak pumirut\AppData\Local\GitHubDesktop\bin;C:\Program Files\Java\jdk-21\bin
+Check launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe (OK)
+Version string: 1.021.000_005 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe
+Launcher args:	--module-path \"javafx-sdk-21.0.5/lib\" --add-modules javafx.controls,javafx.fxml,javafx.graphics -jar "C:\Users\oak pumirut\Documents\Java\Application\Server.exe"
+Args length:	163/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\oak pumirut\Documents\Java\Application\Server.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\oak pumirut\Documents\Java\Application\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Program Files\Java\jdk-21\bin
+Substitute:	PATH = C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Python313\Scripts\;C:\Python313\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\DevSuiteHome_2\jdk\jre\bin\classic;C:\DevSuiteHome_2\jdk\jre\bin;C:\DevSuiteHome_2\jdk\jre\bin\client;C:\DevSuiteHome_2\jlib;C:\DevSuiteHome_2\bin;C:\DevSuiteHome_2\jre\1.4.2\bin\client;C:\DevSuiteHome_2\jre\1.4.2\bin;C:\DevSuiteHome_1\jdk\jre\bin\client;C:\DevSuiteHome_1\bin;C:\DevSuiteHome_1\jlib;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\Pumirut\bin;C:\Program Files\dotnet\;C:\Program Files\PuTTY\;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Users\oak pumirut\AppData\Local\Microsoft\WindowsApps;C:\Users\oak pumirut\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\oak pumirut\AppData\Roaming\npm;C:\Users\oak pumirut\AppData\Local\GitHubDesktop\bin;C:\Program Files\Java\jdk-21\bin
+JRE paths:	C:\Program Files\Java\jdk-21\bin;C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Python313\Scripts\;C:\Python313\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\DevSuiteHome_2\jdk\jre\bin\classic;C:\DevSuiteHome_2\jdk\jre\bin;C:\DevSuiteHome_2\jdk\jre\bin\client;C:\DevSuiteHome_2\jlib;C:\DevSuiteHome_2\bin;C:\DevSuiteHome_2\jre\1.4.2\bin\client;C:\DevSuiteHome_2\jre\1.4.2\bin;C:\DevSuiteHome_1\jdk\jre\bin\client;C:\DevSuiteHome_1\bin;C:\DevSuiteHome_1\jlib;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\Pumirut\bin;C:\Program Files\dotnet\;C:\Program Files\PuTTY\;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Users\oak pumirut\AppData\Local\Microsoft\WindowsApps;C:\Users\oak pumirut\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\oak pumirut\AppData\Roaming\npm;C:\Users\oak pumirut\AppData\Local\GitHubDesktop\bin;C:\Program Files\Java\jdk-21\bin
+Check launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe (OK)
+Version string: 1.021.000_005 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe
+Launcher args:	--module-path \"javafx-sdk-21.0.5/lib\" --add-modules javafx.controls,javafx.fxml,javafx.graphics -jar "C:\Users\oak pumirut\Documents\Java\Application\Server.exe"
+Args length:	163/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\oak pumirut\Documents\Java\Application\Server.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\oak pumirut\Documents\Java\Application\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Program Files\Java\jdk-21\bin
+Substitute:	PATH = C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Python313\Scripts\;C:\Python313\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\DevSuiteHome_2\jdk\jre\bin\classic;C:\DevSuiteHome_2\jdk\jre\bin;C:\DevSuiteHome_2\jdk\jre\bin\client;C:\DevSuiteHome_2\jlib;C:\DevSuiteHome_2\bin;C:\DevSuiteHome_2\jre\1.4.2\bin\client;C:\DevSuiteHome_2\jre\1.4.2\bin;C:\DevSuiteHome_1\jdk\jre\bin\client;C:\DevSuiteHome_1\bin;C:\DevSuiteHome_1\jlib;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\Pumirut\bin;C:\Program Files\dotnet\;C:\Program Files\PuTTY\;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Users\oak pumirut\AppData\Local\Microsoft\WindowsApps;C:\Users\oak pumirut\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\oak pumirut\AppData\Roaming\npm;C:\Users\oak pumirut\AppData\Local\GitHubDesktop\bin;C:\Program Files\Java\jdk-21\bin
+JRE paths:	C:\Program Files\Java\jdk-21\bin;C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Python313\Scripts\;C:\Python313\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\DevSuiteHome_2\jdk\jre\bin\classic;C:\DevSuiteHome_2\jdk\jre\bin;C:\DevSuiteHome_2\jdk\jre\bin\client;C:\DevSuiteHome_2\jlib;C:\DevSuiteHome_2\bin;C:\DevSuiteHome_2\jre\1.4.2\bin\client;C:\DevSuiteHome_2\jre\1.4.2\bin;C:\DevSuiteHome_1\jdk\jre\bin\client;C:\DevSuiteHome_1\bin;C:\DevSuiteHome_1\jlib;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\Pumirut\bin;C:\Program Files\dotnet\;C:\Program Files\PuTTY\;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Users\oak pumirut\AppData\Local\Microsoft\WindowsApps;C:\Users\oak pumirut\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\oak pumirut\AppData\Roaming\npm;C:\Users\oak pumirut\AppData\Local\GitHubDesktop\bin;C:\Program Files\Java\jdk-21\bin
+Check launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe (OK)
+Version string: 1.021.000_005 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe
+Launcher args:	--module-path \"../javafx-sdk-21.0.5/lib\" --add-modules javafx.controls,javafx.fxml,javafx.graphics -jar "C:\Users\oak pumirut\Documents\Java\Application\Server.exe"
+Args length:	166/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\oak pumirut\Documents\Java\Application\Server.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\oak pumirut\Documents\Java\Application\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Program Files\Java\jdk-21\bin
+Substitute:	PATH = C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Python313\Scripts\;C:\Python313\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\DevSuiteHome_2\jdk\jre\bin\classic;C:\DevSuiteHome_2\jdk\jre\bin;C:\DevSuiteHome_2\jdk\jre\bin\client;C:\DevSuiteHome_2\jlib;C:\DevSuiteHome_2\bin;C:\DevSuiteHome_2\jre\1.4.2\bin\client;C:\DevSuiteHome_2\jre\1.4.2\bin;C:\DevSuiteHome_1\jdk\jre\bin\client;C:\DevSuiteHome_1\bin;C:\DevSuiteHome_1\jlib;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\Pumirut\bin;C:\Program Files\dotnet\;C:\Program Files\PuTTY\;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Users\oak pumirut\AppData\Local\Microsoft\WindowsApps;C:\Users\oak pumirut\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\oak pumirut\AppData\Roaming\npm;C:\Users\oak pumirut\AppData\Local\GitHubDesktop\bin;C:\Program Files\Java\jdk-21\bin
+JRE paths:	C:\Program Files\Java\jdk-21\bin;C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Python313\Scripts\;C:\Python313\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\DevSuiteHome_2\jdk\jre\bin\classic;C:\DevSuiteHome_2\jdk\jre\bin;C:\DevSuiteHome_2\jdk\jre\bin\client;C:\DevSuiteHome_2\jlib;C:\DevSuiteHome_2\bin;C:\DevSuiteHome_2\jre\1.4.2\bin\client;C:\DevSuiteHome_2\jre\1.4.2\bin;C:\DevSuiteHome_1\jdk\jre\bin\client;C:\DevSuiteHome_1\bin;C:\DevSuiteHome_1\jlib;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\Pumirut\bin;C:\Program Files\dotnet\;C:\Program Files\PuTTY\;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Users\oak pumirut\AppData\Local\Microsoft\WindowsApps;C:\Users\oak pumirut\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\oak pumirut\AppData\Roaming\npm;C:\Users\oak pumirut\AppData\Local\GitHubDesktop\bin;C:\Program Files\Java\jdk-21\bin
+Check launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe (OK)
+Version string: 1.021.000_005 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe
+Launcher args:	--module-path \../javafx-sdk-21.0.5/lib\ --add-modules javafx.controls,javafx.fxml,javafx.graphics -jar "C:\Users\oak pumirut\Documents\Java\Application\Server.exe"
+Args length:	164/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\oak pumirut\Documents\Java\Application\Server.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\oak pumirut\Documents\Java\Application\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Program Files\Java\jdk-21\bin
+Substitute:	PATH = C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Python313\Scripts\;C:\Python313\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\DevSuiteHome_2\jdk\jre\bin\classic;C:\DevSuiteHome_2\jdk\jre\bin;C:\DevSuiteHome_2\jdk\jre\bin\client;C:\DevSuiteHome_2\jlib;C:\DevSuiteHome_2\bin;C:\DevSuiteHome_2\jre\1.4.2\bin\client;C:\DevSuiteHome_2\jre\1.4.2\bin;C:\DevSuiteHome_1\jdk\jre\bin\client;C:\DevSuiteHome_1\bin;C:\DevSuiteHome_1\jlib;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\Pumirut\bin;C:\Program Files\dotnet\;C:\Program Files\PuTTY\;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Users\oak pumirut\AppData\Local\Microsoft\WindowsApps;C:\Users\oak pumirut\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\oak pumirut\AppData\Roaming\npm;C:\Users\oak pumirut\AppData\Local\GitHubDesktop\bin;C:\Program Files\Java\jdk-21\bin
+JRE paths:	C:\Program Files\Java\jdk-21\bin;C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Python313\Scripts\;C:\Python313\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\DevSuiteHome_2\jdk\jre\bin\classic;C:\DevSuiteHome_2\jdk\jre\bin;C:\DevSuiteHome_2\jdk\jre\bin\client;C:\DevSuiteHome_2\jlib;C:\DevSuiteHome_2\bin;C:\DevSuiteHome_2\jre\1.4.2\bin\client;C:\DevSuiteHome_2\jre\1.4.2\bin;C:\DevSuiteHome_1\jdk\jre\bin\client;C:\DevSuiteHome_1\bin;C:\DevSuiteHome_1\jlib;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\Pumirut\bin;C:\Program Files\dotnet\;C:\Program Files\PuTTY\;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Users\oak pumirut\AppData\Local\Microsoft\WindowsApps;C:\Users\oak pumirut\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\oak pumirut\AppData\Roaming\npm;C:\Users\oak pumirut\AppData\Local\GitHubDesktop\bin;C:\Program Files\Java\jdk-21\bin
+Check launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe (OK)
+Version string: 1.021.000_005 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe
+Launcher args:	--module-path \../javafx-sdk-21.0.5/lib\ --add-modules javafx.controls,javafx.fxml,javafx.graphics -jar "C:\Users\oak pumirut\Documents\Java\Application\Server.exe"
+Args length:	164/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\oak pumirut\Documents\Java\Application\Server.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\oak pumirut\Documents\Java\Application\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Program Files\Java\jdk-21\bin
+Substitute:	PATH = C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Python313\Scripts\;C:\Python313\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\DevSuiteHome_2\jdk\jre\bin\classic;C:\DevSuiteHome_2\jdk\jre\bin;C:\DevSuiteHome_2\jdk\jre\bin\client;C:\DevSuiteHome_2\jlib;C:\DevSuiteHome_2\bin;C:\DevSuiteHome_2\jre\1.4.2\bin\client;C:\DevSuiteHome_2\jre\1.4.2\bin;C:\DevSuiteHome_1\jdk\jre\bin\client;C:\DevSuiteHome_1\bin;C:\DevSuiteHome_1\jlib;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\Pumirut\bin;C:\Program Files\dotnet\;C:\Program Files\PuTTY\;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Users\oak pumirut\AppData\Local\Microsoft\WindowsApps;C:\Users\oak pumirut\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\oak pumirut\AppData\Roaming\npm;C:\Users\oak pumirut\AppData\Local\GitHubDesktop\bin;C:\Program Files\Java\jdk-21\bin
+JRE paths:	C:\Program Files\Java\jdk-21\bin;C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Python313\Scripts\;C:\Python313\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\DevSuiteHome_2\jdk\jre\bin\classic;C:\DevSuiteHome_2\jdk\jre\bin;C:\DevSuiteHome_2\jdk\jre\bin\client;C:\DevSuiteHome_2\jlib;C:\DevSuiteHome_2\bin;C:\DevSuiteHome_2\jre\1.4.2\bin\client;C:\DevSuiteHome_2\jre\1.4.2\bin;C:\DevSuiteHome_1\jdk\jre\bin\client;C:\DevSuiteHome_1\bin;C:\DevSuiteHome_1\jlib;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\Pumirut\bin;C:\Program Files\dotnet\;C:\Program Files\PuTTY\;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Users\oak pumirut\AppData\Local\Microsoft\WindowsApps;C:\Users\oak pumirut\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\oak pumirut\AppData\Roaming\npm;C:\Users\oak pumirut\AppData\Local\GitHubDesktop\bin;C:\Program Files\Java\jdk-21\bin
+Check launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe (OK)
+Version string: 1.021.000_005 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe
+Launcher args:	--module-path ../javafx-sdk-21.0.5/lib --add-modules javafx.controls,javafx.fxml,javafx.graphics -jar "C:\Users\oak pumirut\Documents\Java\Application\Server.exe"
+Args length:	162/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\oak pumirut\Documents\Java\Application\Server.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\oak pumirut\Documents\Java\Application\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Program Files\Java\jdk-21\bin
+Substitute:	PATH = C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Python313\Scripts\;C:\Python313\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\DevSuiteHome_2\jdk\jre\bin\classic;C:\DevSuiteHome_2\jdk\jre\bin;C:\DevSuiteHome_2\jdk\jre\bin\client;C:\DevSuiteHome_2\jlib;C:\DevSuiteHome_2\bin;C:\DevSuiteHome_2\jre\1.4.2\bin\client;C:\DevSuiteHome_2\jre\1.4.2\bin;C:\DevSuiteHome_1\jdk\jre\bin\client;C:\DevSuiteHome_1\bin;C:\DevSuiteHome_1\jlib;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\Pumirut\bin;C:\Program Files\dotnet\;C:\Program Files\PuTTY\;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Users\oak pumirut\AppData\Local\Microsoft\WindowsApps;C:\Users\oak pumirut\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\oak pumirut\AppData\Roaming\npm;C:\Users\oak pumirut\AppData\Local\GitHubDesktop\bin;C:\Program Files\Java\jdk-21\bin
+JRE paths:	C:\Program Files\Java\jdk-21\bin;C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Python313\Scripts\;C:\Python313\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\DevSuiteHome_2\jdk\jre\bin\classic;C:\DevSuiteHome_2\jdk\jre\bin;C:\DevSuiteHome_2\jdk\jre\bin\client;C:\DevSuiteHome_2\jlib;C:\DevSuiteHome_2\bin;C:\DevSuiteHome_2\jre\1.4.2\bin\client;C:\DevSuiteHome_2\jre\1.4.2\bin;C:\DevSuiteHome_1\jdk\jre\bin\client;C:\DevSuiteHome_1\bin;C:\DevSuiteHome_1\jlib;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\Pumirut\bin;C:\Program Files\dotnet\;C:\Program Files\PuTTY\;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Users\oak pumirut\AppData\Local\Microsoft\WindowsApps;C:\Users\oak pumirut\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\oak pumirut\AppData\Roaming\npm;C:\Users\oak pumirut\AppData\Local\GitHubDesktop\bin;C:\Program Files\Java\jdk-21\bin
+Check launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe (OK)
+Version string: 1.021.000_005 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe
+Launcher args:	--module-path ../javafx-sdk-21.0.5/lib --add-modules javafx.controls,javafx.fxml,javafx.graphics -jar "C:\Users\oak pumirut\Documents\Java\Application\Server.exe"
+Args length:	162/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\oak pumirut\Documents\Java\Application\Server.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\oak pumirut\Documents\Java\Application\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Program Files\Java\jdk-21\bin
+Substitute:	PATH = C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Python313\Scripts\;C:\Python313\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\DevSuiteHome_2\jdk\jre\bin\classic;C:\DevSuiteHome_2\jdk\jre\bin;C:\DevSuiteHome_2\jdk\jre\bin\client;C:\DevSuiteHome_2\jlib;C:\DevSuiteHome_2\bin;C:\DevSuiteHome_2\jre\1.4.2\bin\client;C:\DevSuiteHome_2\jre\1.4.2\bin;C:\DevSuiteHome_1\jdk\jre\bin\client;C:\DevSuiteHome_1\bin;C:\DevSuiteHome_1\jlib;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\Pumirut\bin;C:\Program Files\dotnet\;C:\Program Files\PuTTY\;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Users\oak pumirut\AppData\Local\Microsoft\WindowsApps;C:\Users\oak pumirut\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\oak pumirut\AppData\Roaming\npm;C:\Users\oak pumirut\AppData\Local\GitHubDesktop\bin;C:\Program Files\Java\jdk-21\bin
+JRE paths:	C:\Program Files\Java\jdk-21\bin;C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Python313\Scripts\;C:\Python313\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\DevSuiteHome_2\jdk\jre\bin\classic;C:\DevSuiteHome_2\jdk\jre\bin;C:\DevSuiteHome_2\jdk\jre\bin\client;C:\DevSuiteHome_2\jlib;C:\DevSuiteHome_2\bin;C:\DevSuiteHome_2\jre\1.4.2\bin\client;C:\DevSuiteHome_2\jre\1.4.2\bin;C:\DevSuiteHome_1\jdk\jre\bin\client;C:\DevSuiteHome_1\bin;C:\DevSuiteHome_1\jlib;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\Pumirut\bin;C:\Program Files\dotnet\;C:\Program Files\PuTTY\;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Users\oak pumirut\AppData\Local\Microsoft\WindowsApps;C:\Users\oak pumirut\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\oak pumirut\AppData\Roaming\npm;C:\Users\oak pumirut\AppData\Local\GitHubDesktop\bin;C:\Program Files\Java\jdk-21\bin
+Check launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe (OK)
+Version string: 1.021.000_005 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe
+Launcher args:	--module-path "../javafx-sdk-21.0.5/lib" --add-modules javafx.controls,javafx.fxml  -jar "C:\Users\oak pumirut\Documents\Java\Application\Server.exe"
+Args length:	149/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\oak pumirut\Documents\Java\Application\Client.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\oak pumirut\Documents\Java\Application\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Program Files\Java\jdk-21\bin
+Substitute:	PATH = C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Python313\Scripts\;C:\Python313\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\DevSuiteHome_2\jdk\jre\bin\classic;C:\DevSuiteHome_2\jdk\jre\bin;C:\DevSuiteHome_2\jdk\jre\bin\client;C:\DevSuiteHome_2\jlib;C:\DevSuiteHome_2\bin;C:\DevSuiteHome_2\jre\1.4.2\bin\client;C:\DevSuiteHome_2\jre\1.4.2\bin;C:\DevSuiteHome_1\jdk\jre\bin\client;C:\DevSuiteHome_1\bin;C:\DevSuiteHome_1\jlib;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\Pumirut\bin;C:\Program Files\dotnet\;C:\Program Files\PuTTY\;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Users\oak pumirut\AppData\Local\Microsoft\WindowsApps;C:\Users\oak pumirut\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\oak pumirut\AppData\Roaming\npm;C:\Users\oak pumirut\AppData\Local\GitHubDesktop\bin;C:\Program Files\Java\jdk-21\bin
+JRE paths:	C:\Program Files\Java\jdk-21\bin;C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Python313\Scripts\;C:\Python313\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\DevSuiteHome_2\jdk\jre\bin\classic;C:\DevSuiteHome_2\jdk\jre\bin;C:\DevSuiteHome_2\jdk\jre\bin\client;C:\DevSuiteHome_2\jlib;C:\DevSuiteHome_2\bin;C:\DevSuiteHome_2\jre\1.4.2\bin\client;C:\DevSuiteHome_2\jre\1.4.2\bin;C:\DevSuiteHome_1\jdk\jre\bin\client;C:\DevSuiteHome_1\bin;C:\DevSuiteHome_1\jlib;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\Pumirut\bin;C:\Program Files\dotnet\;C:\Program Files\PuTTY\;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Users\oak pumirut\AppData\Local\Microsoft\WindowsApps;C:\Users\oak pumirut\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\oak pumirut\AppData\Roaming\npm;C:\Users\oak pumirut\AppData\Local\GitHubDesktop\bin;C:\Program Files\Java\jdk-21\bin
+Check launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe (OK)
+Version string: 1.021.000_005 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe
+Launcher args:	--module-path "../javafx-sdk-21.0.5/lib" --add-modules javafx.controls,javafx.fxml  -jar "C:\Users\oak pumirut\Documents\Java\Application\Client.exe"
+Args length:	149/32768 chars
+Exit code:	0

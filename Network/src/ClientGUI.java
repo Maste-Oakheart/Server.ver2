@@ -45,7 +45,7 @@ public class ClientGUI extends Application {
 
         // Connection controls
         Label ipLabel = new Label("Server IP:");
-        ipField = new TextField("localhost");
+        ipField = new TextField("0.0.0.0");
         Label portLabel = new Label("Port:");
         portField = new TextField("8080");
         connectButton = new Button("Connect");

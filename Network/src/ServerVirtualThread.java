@@ -4,6 +4,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.PrintWriter;
+import java.net.InetAddress;
 import java.net.ServerSocket;
 import java.net.Socket;
 import java.time.LocalDateTime;
@@ -57,7 +58,7 @@ public class ServerVirtualThread {
 
     public void start(final int port) {
         try {
-            serverSocket = new ServerSocket(port);
+            serverSocket = new ServerSocket(port, 50, InetAddress.getByName("0.0.0.0"));
             System.out.println("Server is running on port: " + port);
             var serverIP = serverSocket.getInetAddress().getHostAddress();
             System.out.println("Server IP: " + serverIP);
